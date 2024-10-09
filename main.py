@@ -17,8 +17,7 @@ if 20 <= age <= 40:
         if door_choice == 1:
             jump = input("You have reached a bridge. Only the brave can jump. Will you jump? (yes/no): ")
             if jump.lower() == "yes":
-                print(
-                    "Congratulations! There is gold at the end of the trail, but you must answer these three questions correctly.")
+                print("Congratulations! There is gold at the end of the trail, but you must answer these three questions correctly.")
                 q1 = int(input("What is 5 * 5? "))
                 q2 = int(input("What is 6 * 6? "))
                 q3 = int(input("What is 7 * 7? "))

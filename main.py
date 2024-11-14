@@ -79,3 +79,4 @@ else:
     print("You are not eligible to enter the haunted mansion.")
 
 # Call the function to run the game
+#hello
